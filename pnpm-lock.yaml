@@ -19,9 +19,9 @@ dependencies:
     version: 4.0.2(vue@3.4.21)
 
 devDependencies:
-  '@Vitejs/plugin-vue':
+  '@vitejs/plugin-vue':
     specifier: ^5.0.4
-    version: /@vitejs/plugin-vue@5.0.4(vite@5.1.6)(vue@3.4.21)
+    version: 5.0.4(vite@5.1.6)(vue@3.4.21)
   '@vue/tsconfig':
     specifier: ^0.5.1
     version: 0.5.1
