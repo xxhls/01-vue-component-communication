@@ -48,10 +48,14 @@ jobs:
       - name: Build with VitePress
         run: |
           pnpm run build
-      - name: Upload artifact
+      - name: Upload artifact1
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/**/*
+          path: dist
+      - name: Upload artifact2
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/assets
 
   # 部署工作
   deploy:
