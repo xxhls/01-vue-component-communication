@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@Vitejs/plugin-vue": "npm:@vitejs/plugin-vue@^5.0.4",
+    "@vue/tsconfig": "^0.5.1",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.6"
+  }
+}
