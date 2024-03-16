@@ -11,7 +11,7 @@ Tips:
 于是临时停更面经，并将这些面经中的重难点以项目实战的方式展现出来供读者参阅
 
 极简 Vue 模板：https://github.com/xxhls/vue-mini-template  
-本期项目地址：https://github.com/xxhls/vue-mini-template
+本期项目地址：https://github.com/xxhls/01-vue-component-communication
 ```
 
 ### 通信方式概要
