@@ -20,7 +20,7 @@ dependencies:
 
 devDependencies:
   '@Vitejs/plugin-vue':
-    specifier: npm:@vitejs/plugin-vue@^5.0.4
+    specifier: ^5.0.4
     version: /@vitejs/plugin-vue@5.0.4(vite@5.1.6)(vue@3.4.21)
   '@vue/tsconfig':
     specifier: ^0.5.1
